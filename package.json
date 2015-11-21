@@ -1,0 +1,28 @@
+{
+  "name": "skeleton-stack",
+  "version": "1.0.0",
+  "description": "Angular JS Application Skeleton",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Balbuena",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balbuenac/skeleton-stack.git"
+  },
+  "keywords": [
+    "angular",
+    "ruby",
+    "grunt"
+  ],
+  "bugs": {
+    "url": "https://github.com/balbuenac/skeleton-stack/issues"
+  },
+  "homepage": "https://github.com/balbuenac/skeleton-stack#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-include-source": "^0.7.1"
+  }
+}
